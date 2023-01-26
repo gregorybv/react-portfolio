@@ -7,6 +7,9 @@
 
 .project__img {
   border-radius: 10px;
+  width: 370px;
+  height: 235px;
+  object-fit: scale-down;
 }
 
 .project__title {
