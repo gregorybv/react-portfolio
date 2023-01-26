@@ -26,21 +26,21 @@ const projects = [
         gitHubLink: "https://github.com/gregorybv/YourTour.git",
     },
     {
-        title: "Programmer's Blog",
+        title: "A site about finance",
         img: project02,
         imgBig: project02Big,
         skills: "React, Node.js, MongoDB, TailwindCSS",
         gitHubLink: "https://github.com",
     },
     {
-        title: "ToDo APP",
+        title: "My portfolio",
         img: project03,
         imgBig: project03Big,
         skills: "JavaScript, HTML, CSS",
         gitHubLink: "https://github.com",
     },
     {
-        title: "Dating app",
+        title: "Website for sports",
         img: project04,
         imgBig: project04Big,
         skills: "In the process of developing",
@@ -52,7 +52,7 @@ const projects = [
         skills: "In the process of developing",
     },
     {
-        title: "Gaming community",
+        title: "Great tools site",
         img: project06,
         imgBig: project06Big,
         skills: "In the process of developing",
